@@ -150,7 +150,7 @@ export default function AuthPage({ users, setUsers, onLogin }) {
         </button>
 
         <div style={{ textAlign: 'center', marginTop: 14, fontFamily: C.monoFont, fontSize: 11, color: C.textDim }}>
-          DEMO // smriti@demo.com : demo123
+          DEMO // alice@demo.com : demo123
         </div>
       </div>
     </div>
